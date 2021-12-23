@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+	<author>Mictogenital</author>	
+    <version>1.0.0.0</version>    
+	<title>
+        <en>MotherBin6001-LoadAllFruits</en>
+		<de>MotherBin6001-LadeAlleFrüchte</de>
+    </title>    
+	<description>
+        <en><![CDATA[Bla, bla, bla, einfach laden, mod it till it breaks...!]]></en>		
+		<de><![CDATA[Bla, bla, bla, einfach laden, mod it till it breaks...!]]></de>	
+    </description>    
+	<iconFilename>store_motherBin6000.dds</iconFilename>
+    <multiplayer supported="true"/>	
+	<storeItems>
+        <storeItem xmlFilename="vehicles/motherBin6001/motherBin6000.xml"/>
+    </storeItems>
+</modDesc>
